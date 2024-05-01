@@ -20,8 +20,15 @@ Overall, the hotel management system project demonstrates a robust solution for 
 
 ## Entity-Relation Diagram:
 ![image](https://github.com/HamzaIqbal22/Database-Systems/assets/81776951/262ea90d-a63c-4af3-b5b1-37b8727d547d)
+[Uploading Homepage - Toronto Metropolitan University.url…]()
+
+## Unix Shell Implementation:
 ![image](https://github.com/HamzaIqbal22/Database-Systems/assets/81776951/0b52afa0-5c4c-4270-8473-b3dee9098260)
+
+## Advanced Queries:
 ![image](https://github.com/HamzaIqbal22/Database-Systems/assets/81776951/c1b43d28-9fc5-4e2b-a2d0-637eb70631b8)
+
+## Java UI:
 ![image](https://github.com/HamzaIqbal22/Database-Systems/assets/81776951/45233201-afbc-4409-b02f-605b7d48fd5b)
 
 
